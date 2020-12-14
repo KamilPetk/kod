@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/zad01.dir/main.cpp.o  -o zad01 -rdynamic 

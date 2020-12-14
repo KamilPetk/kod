@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/zad01.dir/zad01.cpp.o CMakeFiles/zad01.dir/Graph.cpp.o CMakeFiles/zad01.dir/GUI.cpp.o CMakeFiles/zad01.dir/Simple_window.cpp.o CMakeFiles/zad01.dir/Window.cpp.o  -o zad01 -rdynamic -lfltk -lfltk_images 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/zad02.dir/zad02.cpp.o CMakeFiles/zad02.dir/Graph.cpp.o CMakeFiles/zad02.dir/GUI.cpp.o CMakeFiles/zad02.dir/Simple_window.cpp.o CMakeFiles/zad02.dir/Window.cpp.o  -o zad02 -rdynamic -lfltk -lfltk_images 

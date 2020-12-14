@@ -1,0 +1,10 @@
+Kamil 4 4.0
+Kacper 2 3.2
+Deizi 8 1.6
+Osoba4 2 3.8
+Osoba5 7 4.6
+Osoba6 80 4.8
+Osoba7 41 8.5
+Osoba8 63 9.5
+Osoba9 15 4.9
+Osoba10 5 12.5

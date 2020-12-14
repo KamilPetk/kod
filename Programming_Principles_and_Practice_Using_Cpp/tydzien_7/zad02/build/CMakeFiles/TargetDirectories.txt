@@ -1,0 +1,7 @@
+/home/student/projects/tydzien07/zad02/build/CMakeFiles/install/strip.dir
+/home/student/projects/tydzien07/zad02/build/CMakeFiles/install/local.dir
+/home/student/projects/tydzien07/zad02/build/CMakeFiles/zad02.dir
+/home/student/projects/tydzien07/zad02/build/CMakeFiles/install.dir
+/home/student/projects/tydzien07/zad02/build/CMakeFiles/list_install_components.dir
+/home/student/projects/tydzien07/zad02/build/CMakeFiles/edit_cache.dir
+/home/student/projects/tydzien07/zad02/build/CMakeFiles/rebuild_cache.dir

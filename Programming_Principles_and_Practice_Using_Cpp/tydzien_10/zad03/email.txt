@@ -1,0 +1,75 @@
+From: Person1 <person1@machine.example>
+To: Person2 <@example.net>
+Subject: Message1
+Date: Fri, 22 Nov 2019 19:45:06 -0600
+Message–ID: <1234@local.machine.example>
+
+This is a message1
+So, "Hello".
+----
+From: Person2 <person2@machine.example>
+To: Person1 <person1@example.net>
+Message2
+Date: Fri, 23 Nov 2019 11:45:03 +0300
+Message–ID: <1235@local.machine.example>
+
+This is a message2
+So, "Hello".
+----
+Person3 <person3@machine.example>
+To: Person2 <person2@example.net>
+Message3
+Date: Fri, 23 Nov 2019 17:45:12 -0400
+Message–ID: <1264@local.machine.example>
+
+This is a message3
+So, "Hello".
+----
+From: Person1 <person1@machine.example>
+To: Person3 <person3@example.net>
+Subject: Message4
+Date: Fri, 24 Nov 2019 15:45:11 -0600
+Message–ID: <1267@local.machine.example>
+
+This is a message4
+So, "Hello".
+----
+From: Person1 <person1@machine.example>
+To: Person3 <person3@example.net>
+Subject: Message5
+Date: Fri, 24 Nov 2019 15:45:11 -0600
+Message–ID: <1267@local.machine.example>
+
+This is a message5
+So, "Hello".
+----
+From: Person2 <person2@machine.example>
+From: Person2 <person2@machine.example>
+Subject: Message6
+Date: Fri, 24 Nov 2019 21:05:15 -0200
+Message–ID: <1367@local.machine.example>
+
+This is a message6
+So, "Hello".
+----
+From: Person2 <person2@machine.example>
+From: Person11 <person11@machine.example>
+Subject: Message7
+Date: Fri, 24 Nov 2019 21:22:15 -0200
+Message–ID: <1367@local.machine.example>
+
+----
+From: Person2 <to_nie_jest_poprawne>
+From: Person11 <person11@machine.example>
+Subject: Message8
+Date: Fri, 24 Nov 2019 21:22:15 -0200
+Message–ID: <1367@local.machine.example>
+
+From: Person2 <person2@machine.example>
+From: Person11 <person11@machine.example>
+Subject: Message9
+Date: Fri, 24 Nov 2019 21:22:15 -0200
+Message–ID: <1367@local.machine.example>
+
+Message9
+----

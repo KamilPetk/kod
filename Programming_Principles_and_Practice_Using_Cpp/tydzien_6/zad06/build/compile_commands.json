@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/student/projects/tydzien06/zad06/build",
+  "command": "/usr/bin/c++     -g   -o CMakeFiles/zad06.dir/zad06.cpp.o -c /home/student/projects/tydzien06/zad06/zad06.cpp",
+  "file": "/home/student/projects/tydzien06/zad06/zad06.cpp"
+},
+{
+  "directory": "/home/student/projects/tydzien06/zad06/build",
+  "command": "/usr/bin/c++     -g   -o CMakeFiles/zad06.dir/Graph.cpp.o -c /home/student/projects/tydzien06/zad06/Graph.cpp",
+  "file": "/home/student/projects/tydzien06/zad06/Graph.cpp"
+},
+{
+  "directory": "/home/student/projects/tydzien06/zad06/build",
+  "command": "/usr/bin/c++     -g   -o CMakeFiles/zad06.dir/GUI.cpp.o -c /home/student/projects/tydzien06/zad06/GUI.cpp",
+  "file": "/home/student/projects/tydzien06/zad06/GUI.cpp"
+},
+{
+  "directory": "/home/student/projects/tydzien06/zad06/build",
+  "command": "/usr/bin/c++     -g   -o CMakeFiles/zad06.dir/Simple_window.cpp.o -c /home/student/projects/tydzien06/zad06/Simple_window.cpp",
+  "file": "/home/student/projects/tydzien06/zad06/Simple_window.cpp"
+},
+{
+  "directory": "/home/student/projects/tydzien06/zad06/build",
+  "command": "/usr/bin/c++     -g   -o CMakeFiles/zad06.dir/Window.cpp.o -c /home/student/projects/tydzien06/zad06/Window.cpp",
+  "file": "/home/student/projects/tydzien06/zad06/Window.cpp"
+}
+]

@@ -1,0 +1,32 @@
+[CMake]
+Build Directory Count=1
+Current Build Directory Index=0
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=/home/student/projects/tydzien06/zad01/build
+Build Type=Debug
+CMake Binary=/usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=zad01
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Arguments=
+Dependencies=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x02\x00\x00\x00\n\x00z\x00a\x00d\x000\x001\x00\x00\x00\n\x00z\x00a\x00d\x000\x001)
+Dependency Action=Build
+EnvironmentGroup=
+Executable=file:///home/student/projects/tydzien06/zad01
+External Terminal=konsole --noclose --workdir %workdir -e %exe
+Project Target=zad01,zad01
+Use External Terminal=true
+Working Directory=
+isExecutable=false
